@@ -2,7 +2,7 @@
 date: 2024-11-02
 ---
 
-# Counting Colors
+# Counting colors
 
 I used to count colors. I did this everywhere I went, without choosing to or wanting to. It was just something that happened. There was no goal, no purpose, it was just this background process that I had little control over. I started at zero and counted up. Some colors were worth more points than others; I never really questioned this. Sheen and translucency also affected point totals. (Perhaps this was the world's most boring cousin of synesthesia?) Like many children my world was small - home, my parents' car, my Hoover classroom - and so common patterns of items started to emerge. In the family dining room, my eyes would dart from the chair leg to chair cushion to clear table cloth to wainscoting, then repeat. Baby's first subroutine.
 
