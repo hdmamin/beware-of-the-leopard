@@ -24,28 +24,28 @@ And then it wrote this:
 
 > Kitchen, 3AM
 > 
-> The last peach in the bowl
-> has started to cave in,
-> soft spot spreading
-> like a secret kept too long.
->
-> Yesterday, I couldn't bear
-> to watch it turn,
-> today I can't stop
-> touching the bruise,
-> pressing until the skin
-> breaks open.
->
-> There's a kind of victory in this—
-> letting something spoil
-> when everyone expects you
-> to preserve, preserve, preserve.
->
-> The fruit flies have begun
-> their drunken worship.
-> I leave them to their revelry.
-> Some things deserve witnesses
-> when they fall.
+> The last peach in the bowl  
+> has started to cave in,  
+> soft spot spreading  
+> like a secret kept too long.  
+>  
+> Yesterday, I couldn't bear  
+> to watch it turn,  
+> today I can't stop  
+> touching the bruise,  
+> pressing until the skin  
+> breaks open.  
+>  
+> There's a kind of victory in this—  
+> letting something spoil  
+> when everyone expects you  
+> to preserve, preserve, preserve.  
+>  
+> The fruit flies have begun  
+> their drunken worship.  
+> I leave them to their revelry.  
+> Some things deserve witnesses  
+> when they fall.  
 
 Now, I'm no poetry expert, but this felt like a marked improvement. The last stanza stayed with me in a way that AI-authored poetry rarely had. Next it was my turn.
 
