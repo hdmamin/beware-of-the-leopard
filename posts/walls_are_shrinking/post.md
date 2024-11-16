@@ -2,7 +2,7 @@
 date: 2024-11-15
 ---
 
-# Poetry nights with Claude
+# the walls are shrinking
 
 > (What is love but patterns  
 > recognizing patterns  
