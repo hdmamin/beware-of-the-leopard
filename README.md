@@ -21,6 +21,6 @@ I wrestled with whether to make this blog anonymous. Anonymity would be freeing.
 Dates reflect when posts were first published (and in most cases when I both started and finished writing them).
 
 11/2/24 - [Counting colors](posts/counting_colors/post.md)  
-11/8/24 - [Ted Chiang is almost right about AI art](posts/chiang_on_ai_art/post.md)
+11/8/24 - [Ted Chiang is almost right about AI art](posts/chiang_on_ai_art/post.md)  
 11/15/24 - [Poetry nights with CLaude](posts/poetry_with_claude/post.md)
 
