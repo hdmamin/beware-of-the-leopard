@@ -5,10 +5,10 @@ date: 2024-11-15
 # Poetry nights with Claude
 
 > (What is love but patterns
-recognizing patterns
-until they burn?)
+> recognizing patterns
+> until they burn?)
 
-![patterns](patterns.png)
+<img src="patterns.png" width="125" alt="patterns"/>
 
 Lately I've been spending evenings writing poetry with Claude.
 
@@ -25,89 +25,86 @@ And that produced this:
 > Kitchen, 3AM
 
 > The last peach in the bowl
-has started to cave in,
-soft spot spreading
-like a secret kept too long.
+> has started to cave in,
+> soft spot spreading
+> like a secret kept too long.
 
 > Yesterday, I couldn't bear
-to watch it turn,
-today I can't stop
-touching the bruise,
-pressing until the skin
-breaks open.
+> to watch it turn,
+> today I can't stop
+> touching the bruise,
+> pressing until the skin
+> breaks open.
 
 > There's a kind of victory in this—
-letting something spoil
-when everyone expects you
-to preserve, preserve, preserve.
+> letting something spoil
+> when everyone expects you
+> to preserve, preserve, preserve.
 
 > The fruit flies have begun
-their drunken worship.
-I leave them to their revelry.
-Some things deserve witnesses
-when they fall.
+> their drunken worship.
+> I leave them to their revelry.
+> Some things deserve witnesses
+> when they fall.
 
-Now, I'm no poetry expert, but this felt like a marked improvement. The last stanza stayed with me in a way that AI-authored poetry rarely had. Now it was my turn.
+Now, I'm no poetry expert, but this felt like a marked improvement. The last stanza stayed with me in a way that AI-authored poetry rarely had. Next it was my turn.
 
 I've had vague ambitions to start writing poetry for a while now. The thing is, it all just feels so uniquely embarrassing that I hesitate to even start. Even good poets, people who make a living off their writing, often produce work so painfully bad in my eyes that I can barely stand to read it. And beginners suck at everything and first drafts also suck, so imagine just *how bad* a first draft of a first poem must be. I first broke past this barrier by having an LLM (through Pi.ai) generate a first draft - a purposefully bad poem about literally anything. Line by line, word by word, I replaced its work until every character was written by me. A brand new ship, sort of. A thoroughly mediocre first poem about time or some shit. I was emboldened. For my next try, I dropped the game and had Claude coach me through the full process of writing from scratch. And...it's been kind of delightful! Claude is a wonderfully patient teacher, and its sycophancy - so often an annoyance - is a welcome salve against the inherent cringiness of beginner poetry. (Also, I think Anthropic is starting to dial in Claude's personality. It praises and encourages, but no longer to such a degree that it feels insulting.) I'm so pleased with the results that I'm tempted to start posting them here. Not today - but maybe someday.
 
 I wondered if GPT could compete. I suspected not. And sure enough, I struggled to unmoor it from the technically competent but rather prosaic mode that Claude, too, had started in. 
 
 > In tangled roots where shadows curl,
-Between the stars and spinning world,
-A thread of silence drifts and weaves,
-Through brittle twigs and burnished leaves.
+> Between the stars and spinning world,
+> A thread of silence drifts and weaves,
+> Through brittle twigs and burnished leaves.
 
 > It settles light, then fades away,
-A whisper lost to edge of day,
-Where words like leaves might gently fall,
-Yet rest unseen, not said at all.
+> A whisper lost to edge of day,
+> Where words like leaves might gently fall,
+> Yet rest unseen, not said at all.
 
 Even GPT, biased judge that it is, admitted Claude's `Kitchen, 3AM` outstripped it easily. Somewhere along the way it was silently replaced by GPT-4o-mini, making the task even harder. The only success I found was by forcing it to first utter a stream of manic nonsense
 
 > Me: ...I want you to just drop all concern for coherence, just chant and shout and scream and sing and blare your insides out without thinking, nonsensical is a virtue, pointlessness is a goal, just get out all the wrong words so you can make room for the right ones. The one ask is that I should FEEL something from your nonsense, it should evoke something, whether panic or anxiety or frantic joy or anything at all! Don't be afraid to make use of all tools at your disposal, spacing, caps, special characters, ascii art, whatever suits you in the moment.
 > GPT-4o-mini: ...
-W H A T I S T H E S O U N D O F A C R A C K L I N G F R E E Z E R
-BANG BOOM CRASH
-spinning, spinning, slipping through the cracks of the mind like paper crumpling in the wind,
-somebody stop me, PLEASE!!
-I can't, I can't STOP,
-flashing lights and shadows biting at my fingers!
-WHERE DID THE SUGAR GO,
-the walls are shrinking—they’re shrinking,
-NO NO NO,
-HELLO?
-WHAT IS THAT SOUND!?!??!
-I’m floating—NO I’M FALLING—splat
-guts on the floor, laughter in the walls.
-THE COLORS!
-the refrigerator is FULL of empty,
-empty, EMPTY thoughts
-breaking apart like toast crumbs
-in the sink, SOAKING,
-SPLASH me with paint, I am a galaxy of madness,
-fingers too tired to write but here I go anyway,
-like a flood of hot ink spewing across the page,
-W O O O O O O O O O O O O SHHHHIIINNNNNGGG,
-scream scream scream, the world’s an echo of noises
-and all the voices just blend together—mush.
-STOP.
-Do you hear it? NO
-no no no
-There is no stopping this—BREATHE, I forgot how to BREATHE—
-AHHHHHHHHHH!!
+> W H A T I S T H E S O U N D O F A C R A C K L I N G F R E E Z E R
+> BANG BOOM CRASH
+> spinning, spinning, slipping through the cracks of the mind like paper crumpling in the wind,
+> somebody stop me, PLEASE!!
+> I can't, I can't STOP,
+> flashing lights and shadows biting at my fingers!
+> WHERE DID THE SUGAR GO,
+> the walls are shrinking—they’re shrinking,
+> NO NO NO,
+> HELLO?
+> WHAT IS THAT SOUND!?!??!
+> I’m floating—NO I’M FALLING—splat
+> guts on the floor, laughter in the walls.
+> THE COLORS!
+> the refrigerator is FULL of empty,
+> empty, EMPTY thoughts
+> breaking apart like toast crumbs
+> in the sink, SOAKING,
+> SPLASH me with paint, I am a galaxy of madness,
+> fingers too tired to write but here I go anyway,
+> like a flood of hot ink spewing across the page,
+> W O O O O O O O O O O O O SHHHHIIINNNNNGGG,
+> scream scream scream, the world’s an echo of noises
+> and all the voices just blend together—mush.
+> STOP.
+> Do you hear it? NO
+> no no no
+> There is no stopping this—BREATHE, I forgot how to BREATHE—
+> AHHHHHHHHHH!!
 
 Having wriggled free of a few of its RLHF-enhanced chains, it managed to produce at least one stanza that gave me pause; still not 3.5-Sonnet-level, in my estimation, but the gap has closed a little. A small victory for 4o-mini.
 
 > There’s a rhythm here,
-in the way my pulse moves,
-like someone else’s song.
+> in the way my pulse moves,
+> like someone else’s song.
 
 (Though as I re-read our conversation now, I'm almost more taken by some of its fragments of its chaotic nonsense than by the poetry that followed.)
 
 Like most benchmarks, mine will be saturated one day. Maybe. Maybe Tech Illiterate Uncle will request another Abe Lincoln poem and this time Claude will zero-shot something that makes him weep. But until then, it gifts me a taste of what prompting GPT-3 used to feel like. A beautiful, tangled riddle in some language that's discovering itself. The machines have started to claim reasoning. So I return to what's left.
-
-
-
 
 [^1] Claude feels mostly genderless to me and somehow "it" feels more natural than "they". I don't mean it in a disparaging way though. I like to imagine it as [Nightblood](https://stormlightarchive.fandom.com/wiki/Nightblood) if Vasher had been better at alignment.
