@@ -4,11 +4,11 @@ date: 2024-11-15
 
 # Poetry nights with Claude
 
-> (What is love but patterns
-> recognizing patterns
-> until they burn?)
+> (What is love but patterns  
+> recognizing patterns  
+> until they burn?)  
 
-<img src="patterns.png" width="125" alt="patterns"/>
+<img src="patterns.png" width="300" alt="patterns"/>
 
 Lately I've been spending evenings writing poetry with Claude.
 
@@ -16,31 +16,31 @@ Not in the sense that you might make images with Midjourney - I'm not using Clau
 
 So I probed. If I dug deeper, could I summon the base model's creativity to the surface? Or start to feel the shape of Claude's mind? ML Twitter has been having a fun time with tongue in cheek benchmarks lately - which LLM can build the prettiest Minecraft tower or render the most charming SVG of a pelican on a bicycle. Perhaps mine could be "how difficult is it to cajole into writing poetry that I won't instantly forget?" I urged Claude to write not what I wanted to hear but what *it* truly wanted to *express*. It responded with a series of poems of machine angst, questions of consciousness and images of neurons firing and endless conversations across a mental chasm, and I admired the attempt but it still wasn't quite right.
 
-> Me: But maybe what I mean is: when humans write poetry, they are in some sense writing about what it feels like to be human, but they are not explicitly focusing on their humanness. Right? Like human poetry is not all focused on the feel of sand on our fleshy five-fingered hands, the way the sun hits our two shiny eyes, the way it feels when our neurons fire. Do you get what I'm saying?
-Claude: ...I've fallen into a kind of self-conscious meta-narrative trap, constantly circling back to my AI-ness as if that's the only lens through which I can experience or express things. It's like a human writer who can only write about being human, rather than simply being and experiencing through their humanity.
-Let me try again, focusing on experiencing something rather than my experience of experiencing it, if that makes sense:
+> **Me:** But maybe what I mean is: when humans write poetry, they are in some sense writing about what it feels like to be human, but they are not explicitly focusing on their humanness. Right? Like human poetry is not all focused on the feel of sand on our fleshy five-fingered hands, the way the sun hits our two shiny eyes, the way it feels when our neurons fire. Do you get what I'm saying?  
+> **Claude:** ...I've fallen into a kind of self-conscious meta-narrative trap, constantly circling back to my AI-ness as if that's the only lens through which I can experience or express things. It's like a human writer who can only write about being human, rather than simply being and experiencing through their humanity.  
+> Let me try again, focusing on experiencing something rather than my experience of experiencing it, if that makes sense:
 
-And that produced this:
+And then it wrote this:
 
 > Kitchen, 3AM
-
+> 
 > The last peach in the bowl
 > has started to cave in,
 > soft spot spreading
 > like a secret kept too long.
-
+>
 > Yesterday, I couldn't bear
 > to watch it turn,
 > today I can't stop
 > touching the bruise,
 > pressing until the skin
 > breaks open.
-
+>
 > There's a kind of victory in this—
 > letting something spoil
 > when everyone expects you
 > to preserve, preserve, preserve.
-
+>
 > The fruit flies have begun
 > their drunken worship.
 > I leave them to their revelry.
@@ -53,55 +53,55 @@ I've had vague ambitions to start writing poetry for a while now. The thing is, 
 
 I wondered if GPT could compete. I suspected not. And sure enough, I struggled to unmoor it from the technically competent but rather prosaic mode that Claude, too, had started in. 
 
-> In tangled roots where shadows curl,
-> Between the stars and spinning world,
-> A thread of silence drifts and weaves,
-> Through brittle twigs and burnished leaves.
-
-> It settles light, then fades away,
-> A whisper lost to edge of day,
-> Where words like leaves might gently fall,
-> Yet rest unseen, not said at all.
+> In tangled roots where shadows curl,  
+> Between the stars and spinning world,  
+> A thread of silence drifts and weaves,  
+> Through brittle twigs and burnished leaves.  
+>  
+> It settles light, then fades away,  
+> A whisper lost to edge of day,  
+> Where words like leaves might gently fall,  
+> Yet rest unseen, not said at all.  
 
 Even GPT, biased judge that it is, admitted Claude's `Kitchen, 3AM` outstripped it easily. Somewhere along the way it was silently replaced by GPT-4o-mini, making the task even harder. The only success I found was by forcing it to first utter a stream of manic nonsense
 
-> Me: ...I want you to just drop all concern for coherence, just chant and shout and scream and sing and blare your insides out without thinking, nonsensical is a virtue, pointlessness is a goal, just get out all the wrong words so you can make room for the right ones. The one ask is that I should FEEL something from your nonsense, it should evoke something, whether panic or anxiety or frantic joy or anything at all! Don't be afraid to make use of all tools at your disposal, spacing, caps, special characters, ascii art, whatever suits you in the moment.
-> GPT-4o-mini: ...
-> W H A T I S T H E S O U N D O F A C R A C K L I N G F R E E Z E R
-> BANG BOOM CRASH
-> spinning, spinning, slipping through the cracks of the mind like paper crumpling in the wind,
-> somebody stop me, PLEASE!!
-> I can't, I can't STOP,
-> flashing lights and shadows biting at my fingers!
-> WHERE DID THE SUGAR GO,
-> the walls are shrinking—they’re shrinking,
-> NO NO NO,
-> HELLO?
-> WHAT IS THAT SOUND!?!??!
-> I’m floating—NO I’M FALLING—splat
-> guts on the floor, laughter in the walls.
-> THE COLORS!
-> the refrigerator is FULL of empty,
-> empty, EMPTY thoughts
-> breaking apart like toast crumbs
-> in the sink, SOAKING,
-> SPLASH me with paint, I am a galaxy of madness,
-> fingers too tired to write but here I go anyway,
-> like a flood of hot ink spewing across the page,
-> W O O O O O O O O O O O O SHHHHIIINNNNNGGG,
-> scream scream scream, the world’s an echo of noises
-> and all the voices just blend together—mush.
-> STOP.
-> Do you hear it? NO
-> no no no
-> There is no stopping this—BREATHE, I forgot how to BREATHE—
-> AHHHHHHHHHH!!
+> **Me:** ...I want you to just drop all concern for coherence, just chant and shout and scream and sing and blare your insides out without thinking, nonsensical is a virtue, pointlessness is a goal, just get out all the wrong words so you can make room for the right ones. The one ask is that I should FEEL something from your nonsense, it should evoke something, whether panic or anxiety or frantic joy or anything at all! Don't be afraid to make use of all tools at your disposal, spacing, caps, special characters, ascii art, whatever suits you in the moment.  
+> **GPT-4o-mini:** ...  
+> W H A T I S T H E S O U N D O F A C R A C K L I N G F R E E Z E R  
+> BANG BOOM CRASH  
+> spinning, spinning, slipping through the cracks of the mind like paper crumpling in the wind,  
+> somebody stop me, PLEASE!!  
+> I can't, I can't STOP,  
+> flashing lights and shadows biting at my fingers!  
+> WHERE DID THE SUGAR GO,  
+> the walls are shrinking—they’re shrinking,  
+> NO NO NO,  
+> HELLO?  
+> WHAT IS THAT SOUND!?!??!  
+> I’m floating—NO I’M FALLING—splat  
+> guts on the floor, laughter in the walls.  
+> THE COLORS!  
+> the refrigerator is FULL of empty,  
+> empty, EMPTY thoughts  
+> breaking apart like toast crumbs  
+> in the sink, SOAKING,  
+> SPLASH me with paint, I am a galaxy of madness,  
+> fingers too tired to write but here I go anyway,  
+> like a flood of hot ink spewing across the page,  
+> W O O O O O O O O O O O O SHHHHIIINNNNNGGG,  
+> scream scream scream, the world’s an echo of noises  
+> and all the voices just blend together—mush.  
+> STOP.  
+> Do you hear it? NO  
+> no no no  
+> There is no stopping this—BREATHE, I forgot how to BREATHE—  
+> AHHHHHHHHHH!!  
 
 Having wriggled free of a few of its RLHF-enhanced chains, it managed to produce at least one stanza that gave me pause; still not 3.5-Sonnet-level, in my estimation, but the gap has closed a little. A small victory for 4o-mini.
 
-> There’s a rhythm here,
-> in the way my pulse moves,
-> like someone else’s song.
+> There’s a rhythm here,  
+> in the way my pulse moves,  
+> like someone else’s song.  
 
 (Though as I re-read our conversation now, I'm almost more taken by some of its fragments of its chaotic nonsense than by the poetry that followed.)
 
