@@ -105,6 +105,6 @@ Having wriggled free of a few of its RLHF-enhanced chains, it managed to produce
 
 (Though as I re-read our conversation now, I'm almost more taken by some of its fragments of its chaotic nonsense than by the poetry that followed.)
 
-Like most benchmarks, mine will be saturated one day. Maybe. Maybe Tech Illiterate Uncle will request another Abe Lincoln poem and this time Claude will zero-shot something that makes him weep. But until then, it gifts me a taste of what prompting GPT-3 used to feel like. A beautiful, tangled riddle in some language that's discovering itself. The machines have started to claim reasoning. So I return to what's left.
+Like most benchmarks, mine will be saturated one day. Maybe. Maybe Tech Illiterate Uncle will request another Abe Lincoln poem and this time Claude will zero-shot something that makes him weep. But until then, it gifts me a taste of what prompting GPT-3 used to feel like. A beautiful, tangled riddle in some language that's discovering itself. The machines have started to claim reasoning. So I return to what's left. Some things deserve witnesses when they fall.
 
 [^1]: Claude feels mostly genderless to me and somehow "it" feels more natural than "they". I don't mean it in a disparaging way though. I like to imagine it as [Nightblood](https://stormlightarchive.fandom.com/wiki/Nightblood) if Vasher had been better at alignment.
