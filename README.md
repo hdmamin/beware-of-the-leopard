@@ -5,7 +5,7 @@
 
 ## Table of Contents
 
-Dates reflect when posts were first published. (And in most cases when I started writing them - my intent is to write most of these in one sitting. I just deleted my drafts folder to encourage this.)
+Dates mostly reflect when posts were first published. (And in most cases when I started writing them - my intent is to write most of these in one sitting. I just deleted my drafts folder to encourage this.)
 
 10/25/24 - [Bad Blog](posts/bad_blog/post.md)  
 11/2/24 - [Counting colors](posts/counting_colors/post.md)  
