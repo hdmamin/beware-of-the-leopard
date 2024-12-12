@@ -23,4 +23,4 @@ Dates reflect when posts were first published (and in most cases when I both sta
 11/2/24 - [Counting colors](posts/counting_colors/post.md)  
 11/8/24 - [Ted Chiang is almost right about AI art](posts/chiang_on_ai_art/post.md)  
 11/15/24 - [the walls are shrinking](posts/walls_are_shrinking/post.md)
-
+12/11/24 - [pulling back from the brink](posts/capitalization/post.md)
