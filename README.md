@@ -1,6 +1,6 @@
 # Beware of the Leopard
 
-> This is a blog, kind of. You could also call it a journal or a book or a time capsule or a search query. Let me explain.
+> This is a blog, kind of. You could also call it a journal or a book or a time capsule or a search query. Let me explain.  
 > \- me, chapter 1
 
 ## Table of Contents
