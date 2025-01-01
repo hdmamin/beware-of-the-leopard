@@ -7,7 +7,7 @@
 
 Dates mostly reflect when posts were first published. (And usually also the date I started writing them - my intent is to write most of these in one sitting. I just deleted my drafts folder to encourage this.)
 
-10/25/24 - [Bad Blog](posts/bad_blog/post.md)  
+10/25/24 - [Bad blog](posts/bad_blog/post.md)  
 11/2/24 - [Counting colors](posts/counting_colors/post.md)  
 11/8/24 - [Ted Chiang is almost right about AI art](posts/chiang_on_ai_art/post.md)  
 11/15/24 - [the walls are shrinking](posts/walls_are_shrinking/post.md)  
