@@ -1,5 +1,5 @@
 ---
-date: 2024-12-31
+date: 2025-01-06
 ---
 
 # Predicting 2025, half-hearted edition
@@ -38,8 +38,8 @@ Historically my predictions have been pretty good here, but I haven't tracked th
 - *[60%] - SWE-bench starts to saturate (Verified scores >=90%) but (anecdotally) performance on novel codebases lags significantly.* Heuristic: "what % of PRs on my team are fully AI-authored?" Don't think I can share that here, but I'll know. (Or at least I can estimate my own rate.) I'm guessing <=10%.
 
 - *[65%] - Tokens/second for ~SOTA models increases by OOM.* Scaling up test-time compute is the current Big Bet so it seems like there are strong incentives to push on this front. I could see a couple ways this could come true:
-- custom hardware like Groq or Cerebras chips, or some new thing Nvidia or even one of the big research labs are secretly cooking up, gain wider adoption
-- an architectural breakthrough allows us to generate many tokens at a time (alternatively, we might see reasoning occur in latent space rather than token space, which could reduce the time needed to generate smart responses without directly affecting tokens/second)
+    - custom hardware like Groq or Cerebras chips, or some new thing Nvidia or even one of the big research labs are secretly cooking up, gain wider adoption
+    - an architectural breakthrough allows us to generate many tokens at a time (alternatively, we might see reasoning occur in latent space rather than token space, which could reduce the time needed to generate smart responses without directly affecting tokens/second)
 
 - *[15%] - Leetcode style coding interviews die out.* Somewhat obnoxiously, I'll count this as true if >50% of FAANG companies stop asking these. (This is AI-related in the sense that LLM-powered cheating could blow past the point of containment or code gen could render human coding largely obsolete.)
 
