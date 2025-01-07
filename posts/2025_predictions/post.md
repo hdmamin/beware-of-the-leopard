@@ -2,13 +2,13 @@
 date: 2024-12-31
 ---
 
-# Predicting 2025
-
-[Note: I meant to finish this by end of 2024 but dragged my feet a bit, so it's coming out a few days into 2025. I don't think anything's happened yet this year to bias any of these predictions too dramatically.]
+# Predicting 2025, half-hearted edition
 
 Last December I made a bunch of predictions about 2024. Some came true, some didn't, but mostly I don't remember them because I didn't write them down. So this time I want to record them. Partly so I can revisit this post a year from now and have some fun evaluating my past self's predictions, but also to force myself to crystallize some ideas that have been floating around my head for a while.
 
 I intend to do precisely zero research for these predictions - they will be purely vibes-based. I'll attach probabilities so Future Me can evaluate how wrong I was, but don't let this fool you into assuming some level of rigor that's not there. I'll try to predict probabilities rather than quantities when possible to make evaluation simpler. To reduce meaningless fiddling, let's round probabilities to the nearest 5. My predictions will generally deal with one of three topics: myself, AI, and, uh, Other Stuff. Which I guess does kind of sum up how I see the world, and that's maybe not great, but 🤷‍♂️.
+
+[Note: I meant to finish this by end of 2024 but dragged my feet a bit. I don't think anything's happened yet this year to bias any of these predictions too dramatically. My temptation to make predictions about vibes and hard-to-measure things was just too strong and I think I'm going to embrace it. Some of these will be measurable, some may not be. It is what it is. We're now almost a week into 2025 now so screw it, I'm going to just post what I have. What's the point of having a Bad Blog if you don't share a half finished pile of rubble from time to time?]
 
 # Me
 This is kind of a weird category: these are generally things I can control or at least influence dramatically. Maybe this section will end up halfway between goals and predictions, I don't know. But that's not necessarily my intent.
@@ -31,20 +31,17 @@ This is kind of a weird category: these are generally things I can control or at
 
 Historically my predictions have been pretty good here, but I haven't tracked this rigorously or assigned probabilities very consistently. So we'll see...
 
-[UPDATE: my temptation to make predictions about vibes and hard-to-measure things is just too strong and I think I'm going to embrace it. Some of these will be measurable, some may not be. It is what it is.]
-
 - *[30%] - Computer Use models have their ChatGPT moment.* Anthropic's late 2024 Claude Computer Use demo had me kind of shook, to be honest.  Seeing benchmark after benchmark fall was one thing - we've seen models outperform most humans at most cognitive tasks for a while now, IMO. But there's been this sense that this is all happening in a bubble. Models are growing superhumanly smart along certain dimensions but mostly life just goes on and to the average person, the story of the year was "Taylor Swift continues to be famous", while "OpenAI ships an AGI" is a mildly interesting footnote. [^1] Turns out the world is built for humans (who knew...) and rebuilding it for LLMs is a ton of work: it seems that not model capabilies, but "schlep", as Leopold Aschenbrenner dubbed it in [Situational Awareness](https://situational-awareness.ai/?ref=forourposterity.com), may be the key to unlocking transformative AI. Except. If labs could build models where human tool use is the natural mode of interaction, we could shortcut a lot of schlep and begin seeing sweeping changes much more quickly. And though I've largely been pro-progress, something approaching E/Acc without identifying as such, I guess I thought we'd have more time... And I'm not sure I'm ready yet. Now, 2025 strikes me as a pretty aggressive timeline for this. Over 2 years passed between the release of gpt-3 and ChatGPT, and a couple more until the actually smart O-series emerged; and Anthropic has been at least superficially (and I think probably genuinely) more cautious about potential harms. But so much of the benefit of Computer Use lies in its expedited timeline: perhaps in the long run most tooling will be built with AIs in mind and we shouldn't assume the ideal UX will be the same for them as it is for humans. But in the meantime, the lure of bypassing all that boring integration work is powerful. Labs will want to move fast. Prompt injection attacks do pose signicant challenges and letting these types of systems run wild on the internet could be further off...but deploying them within companies, perhaps constrained to a more limited set of systems? That sounds more plausible in the near term. I realize it's hard to evaluate this prediction as I've phrased it, so I'll use this admittedly flawed heuristic: will a company I'm familiar with announce that they're using Computer Use models internally to augment or replace human employees? (If this seems like a low bar for a "ChatGPT moment", what I mean is: gpt-3 was an incredibly cool research development that the world, save for the few nerds who were obsessed with machine learning AND language AND sci fi, largely ignored. But with ChatGPT, LLMs developed into another widely used technology that mostly produces mundane but sometimes useful things.)
 
-- *[55%] - LLM as a Judge falls out of favor as a de facto eval method.*
+- *[60%] - AI companions still fail to provide compelling friendships (in my eyes).* Voice mode is cool but we're still missing stakes. I learned this lesson before chatGPT and I've seen little evidence character.ai and the like are close to addressing this. Lots to say here but I think that's deserving of its own post.
 
-- *[_%] - .*
+- *[60%] - SWE-bench starts to saturate (Verified scores >=90%) but (anecdotally) performance on novel codebases lags significantly.* Heuristic: "what % of PRs on my team are fully AI-authored?" Don't think I can share that here, but I'll know. (Or at least I can estimate my own rate.) I'm guessing <=10%.
 
-- *[60%] - AI companions still fail to provide compelling friendships (in my eyes).*
+- *[65%] - Tokens/second for ~SOTA models increases by OOM.* Scaling up test-time compute is the current Big Bet so it seems like there are strong incentives to push on this front. I could see a couple ways this could come true:
+- custom hardware like Groq or Cerebras chips, or some new thing Nvidia or even one of the big research labs are secretly cooking up, gain wider adoption
+- an architectural breakthrough allows us to generate many tokens at a time (alternatively, we might see reasoning occur in latent space rather than token space, which could reduce the time needed to generate smart responses without directly affecting tokens/second)
 
-- *[60%] - SWE-bench starts to saturate (Verified scores >=90%) but (anecdotally) performance on novel codebases lags significantly.* TODO but maybe heuristic can be something like "what % of PRs on my team are fully AI-authored?" But maybe I can't share that result, whatever it is.
-
-TODO
-- some possible points to consider and make more concrete: agents have their breakthrough moment, GUI usage improvements accelerate real world impact, people become increasingly disillusioned with benchmarks and start to rethink eval methods, new arch/method that generates >1 token per forward pass speeds up inference by ~OOM, we're able to run O1 level model on a regular macbook, SWE-bench approaches saturation but real world perf lags, (low prob) coding interviews change dramatically, alignment/safety teams (not counting interp) fail to make meaningful leap forward, AI companions remain (to me) disappointing due to lack of stakes, lud movement grows significantly (need to figure out how to quantify)
+- *[15%] - Leetcode style coding interviews die out.* Somewhat obnoxiously, I'll count this as true if >50% of FAANG companies stop asking these. (This is AI-related in the sense that LLM-powered cheating could blow past the point of containment or code gen could render human coding largely obsolete.)
 
 # Other
 
