@@ -11,9 +11,9 @@ acting upon that environment through actuators.
 
 I think this is mostly right. But parts of it still irked me. What does it mean to act upon an environment? ChatGPT can read the news or execute code before answering, does that qualify? Are we back at "tool use"? Perhaps, I thought, read-only actions are insufficient. We can modify the definition to clarify that an agent's actions must be capable of modifying its environment. It must be an activate participant in the world, not just a passive one. The anti-NPC. And yet...something still seemed off. I found myself tacking on more and more qualifiers, designed to justify some amorphous intuition about what *felt* like an agent. I know it when I see it, but that's about as satisfying as "tool use".
 
-Instead I propose a different type of definition. The core question we're interested in is usually: what distinguishes an agent from a tool?
+Instead I propose a different type of definition. The core question we're usually interested in is: what distinguishes an agent from a chatbot?
 
-**Tools provide content that helps you solve your problem. Agents solve your problem.**
+**A chatbot provides information that helps you solve your problem. An agent solves your problem.**
 
 I was tempted to make that line the whole post, but I'm an overthinker at heart so a framework it is!
 
