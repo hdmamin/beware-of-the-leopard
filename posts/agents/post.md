@@ -4,14 +4,14 @@ date: 2025-02-28
 
 # Towards a useful definition of agents
 
-Some have proclaimed 2025 the Year of Agents. And yet I can't escape the sense that no one quite knows what we're talking about when we say "agents". "They're...well, you know..." *gestures vaguely in the direction of Devin and mutters something about tool use and loops* Some offered definitions that fit in tweets; others required thousand word blog posts. As Chip Huyen points out, Peter Norvig and Stuart Russell provide a reasonably satisfactory answer in *Artificial Intelligence: A Modern Approach*:
+Some have proclaimed 2025 the Year of Agents. And yet I can't escape the sense that no one quite knows what we're talking about when we say "agents". "They're...well, you know..." *gestures vaguely in the direction of Devin and mutters something about tool use and loops*. [^1] Some offered definitions that fit in tweets; others required thousand word blog posts. As Chip Huyen points out, Peter Norvig and Stuart Russell provide a reasonably satisfactory answer in *Artificial Intelligence: A Modern Approach*:
 
 > An agent is anything that can be viewed as perceiving its environment through sensors and
 acting upon that environment through actuators. 
 
 I think this is mostly right. But parts of it still irked me. What does it mean to act upon an environment? ChatGPT can read the news or execute code before answering, does that qualify? Are we back at "tool use"? Perhaps, I thought, read-only actions are insufficient. We can modify the definition to clarify that an agent's actions must be capable of modifying its environment. It must be an activate participant in the world, not just a passive one. The anti-NPC. And yet...something still seemed off. I found myself tacking on more and more qualifiers, designed to justify some amorphous intuition about what *felt* like an agent. I know it when I see it, but that's about as satisfying as "tool use".
 
-Instead I propose a different type of definition. The core question we're usually interested in is: what distinguishes an agent from a chatbot?
+Instead I propose a different type of definition, one less focused on implementation and more interested in what role they play in the world. The core question we're usually interested in is: what distinguishes an agent from a chatbot?
 
 **A chatbot provides information that helps you solve your problem. An agent solves your problem.**
 
@@ -51,3 +51,5 @@ Want me to book this?
 > AI: Everything is booked! You can find your plane tickets, itinerary, and all concert/event tickets and dinner reservations in your inbox. An uber will take you to the airport on May 12 at 6pm - I'll remind you as the date approaches.  
 
 (Notice this is the only example where the AI initiates. I also omit any `[working...]` markers because this AI is *always* working. Technically it may have been given some broad goal at some point - "improve my life" or "help humanity" or "advance science" - but that's almost more like a value than a goal. Specific goals and implementation details are all left to its judgment.)
+
+[^1] I always found "tool use in a while loop" deeply unsatisfying. Methods change; our definition should not be too closely tied to implementation.
