@@ -52,4 +52,4 @@ Want me to book this?
 
 (Notice this is the only example where the AI initiates. I also omit any `[working...]` markers because this AI is *always* working. Technically it may have been given some broad goal at some point - "improve my life" or "help humanity" or "advance science" - but that's almost more like a value than a goal. Specific goals and implementation details are all left to its judgment.)
 
-[^1] I always found "tool use in a while loop" deeply unsatisfying. Methods change; our definition should not be too closely tied to implementation.
+[^1]: I always found "tool use in a while loop" deeply unsatisfying. Methods change; our definition should not be too closely tied to implementation.
