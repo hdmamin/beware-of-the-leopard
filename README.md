@@ -13,6 +13,6 @@ Dates mostly reflect when posts were first published. (And usually also the date
 11/15/24 - [the walls are shrinking](posts/walls_are_shrinking/post.md)  
 12/11/24 - [pulling back from the brink](posts/capitalization/post.md)  
 1/6/25 - [Predicting 2025, half-hearted edition](posts/2025_predictions/post.md)  
-2/28/25 - [Towards a useful definition of agents](posts/agents/post.md)
+2/28/25 - [Towards a useful definition of agents](posts/agents/post.md)  
 10/06/25 - [A Mind Discovering Itself](posts/auren/post.md)
 
