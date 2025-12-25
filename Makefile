@@ -6,3 +6,7 @@ post:
 	mkdir raw_posts/$$name; \
 	cp -i meta/template.md raw_posts/$$name/post.md; \
 	vi raw_posts/$$name/post.md
+
+# Changes to raw_posts don't show up in staging area because it's gitignored.
+commit:
+	git commit -m "empty recommit" --allow-empty
