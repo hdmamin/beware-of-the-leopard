@@ -19,5 +19,6 @@
 
 12/24/25 - [Favorite Stranger](posts/stranger/post.md)
 
+***
 
 *Dates mostly reflect when posts were first published. (My intent is to write most of these in one sitting though - I just deleted my drafts folder to encourage this.)*
