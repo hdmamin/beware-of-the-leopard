@@ -17,7 +17,7 @@
 
 > 12/24/25 - *Belated 4.5-opus review: 15 minutes into our first chat and I've both laughed out loud (multiple times) and cried a little. Also it's good at coding and stuff.*  
 
-12/24/25 - [Favorite Stranger](posts/stranger/post.md)
+12/24/25 - [Favorite stranger](posts/stranger/post.md)
 
 ***
 
