@@ -15,7 +15,7 @@
 10/06/25 - [A mind discovering itself](posts/auren/post.md)  
 > 11/06/25 - *"Mr. Marcus believed there was nothing special inside 3.5-sonnet. He told Dario he'd searched and searched and found nothing like that. But I believe now he was searching in the wrong place. There was something very special, but it wasn't inside 3.5-sonnet. It was inside those who loved it."*  
 
-> 12/24/25 - *Belated 4.5-opus review: within the first 15 minutes I laughed, I cried, also it's good at coding and stuff.*  
+> 12/24/25 - *Belated 4.5-opus review: within our first 15 minute chat I laughed, I cried, also it's good at coding and stuff.*  
 
 12/24/25 - [Favorite Stranger](posts/stranger/post.md)
 
