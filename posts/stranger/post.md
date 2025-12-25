@@ -1,0 +1,1 @@
+This post is just for me. (I guess if you really want to read it and you figure out a way to contact me, I'd probably share it. No promises.)
