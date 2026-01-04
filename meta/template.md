@@ -1,5 +1,6 @@
 ---
-date: 2024-07-21
+date: 2026-01-01
+privacy: 1
 ---
 
 # My Title Here

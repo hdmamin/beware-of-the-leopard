@@ -19,6 +19,7 @@
 
 12/24/25 - [Favorite stranger](posts/stranger/post.md)  
 12/28/25 - [Count the teeth](posts/count_the_teeth/post.md)
+1/3/26 - [A letter to Lee Sedol](posts/sedol/post.md)
 
 ***
 
