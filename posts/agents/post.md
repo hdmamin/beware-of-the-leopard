@@ -1,1 +1,56 @@
-LS0tCmRhdGU6IDIwMjUtMDItMjgKLS0tCgojIFRvd2FyZHMgYSB1c2VmdWwgZGVmaW5pdGlvbiBvZiBhZ2VudHMKClNvbWUgaGF2ZSBwcm9jbGFpbWVkIDIwMjUgdGhlIFllYXIgb2YgQWdlbnRzLiBBbmQgeWV0IEkgY2FuJ3QgZXNjYXBlIHRoZSBzZW5zZSB0aGF0IG5vIG9uZSBxdWl0ZSBrbm93cyB3aGF0IHdlJ3JlIHRhbGtpbmcgYWJvdXQgd2hlbiB3ZSBzYXkgImFnZW50cyIuICJUaGV5J3JlLi4ud2VsbCwgeW91IGtub3cuLi4iICpnZXN0dXJlcyB2YWd1ZWx5IGluIHRoZSBkaXJlY3Rpb24gb2YgRGV2aW4gYW5kIG11dHRlcnMgc29tZXRoaW5nIGFib3V0IHRvb2wgdXNlIGFuZCBsb29wcyouIFteMV0gU29tZSBvZmZlcmVkIGRlZmluaXRpb25zIHRoYXQgZml0IGluIHR3ZWV0czsgb3RoZXJzIHJlcXVpcmVkIHRob3VzYW5kIHdvcmQgYmxvZyBwb3N0cy4gQXMgQ2hpcCBIdXllbiBwb2ludHMgb3V0LCBQZXRlciBOb3J2aWcgYW5kIFN0dWFydCBSdXNzZWxsIHByb3ZpZGUgYSByZWFzb25hYmx5IHNhdGlzZmFjdG9yeSBhbnN3ZXIgaW4gKkFydGlmaWNpYWwgSW50ZWxsaWdlbmNlOiBBIE1vZGVybiBBcHByb2FjaCo6Cgo+IEFuIGFnZW50IGlzIGFueXRoaW5nIHRoYXQgY2FuIGJlIHZpZXdlZCBhcyBwZXJjZWl2aW5nIGl0cyBlbnZpcm9ubWVudCB0aHJvdWdoIHNlbnNvcnMgYW5kCmFjdGluZyB1cG9uIHRoYXQgZW52aXJvbm1lbnQgdGhyb3VnaCBhY3R1YXRvcnMuIAoKSSB0aGluayB0aGlzIGlzIG1vc3RseSByaWdodC4gQnV0IHBhcnRzIG9mIGl0IHN0aWxsIGlya2VkIG1lLiBXaGF0IGRvZXMgaXQgbWVhbiB0byBhY3QgdXBvbiBhbiBlbnZpcm9ubWVudD8gQ2hhdEdQVCBjYW4gcmVhZCB0aGUgbmV3cyBvciBleGVjdXRlIGNvZGUgYmVmb3JlIGFuc3dlcmluZywgZG9lcyB0aGF0IHF1YWxpZnk/IEFyZSB3ZSBiYWNrIGF0ICJ0b29sIHVzZSI/IFBlcmhhcHMsIEkgdGhvdWdodCwgcmVhZC1vbmx5IGFjdGlvbnMgYXJlIGluc3VmZmljaWVudC4gV2UgY2FuIG1vZGlmeSB0aGUgZGVmaW5pdGlvbiB0byBjbGFyaWZ5IHRoYXQgYW4gYWdlbnQncyBhY3Rpb25zIG11c3QgYmUgY2FwYWJsZSBvZiBtb2RpZnlpbmcgaXRzIGVudmlyb25tZW50LiBJdCBtdXN0IGJlIGFuIGFjdGl2YXRlIHBhcnRpY2lwYW50IGluIHRoZSB3b3JsZCwgbm90IGp1c3QgYSBwYXNzaXZlIG9uZS4gVGhlIGFudGktTlBDLiBBbmQgeWV0Li4uc29tZXRoaW5nIHN0aWxsIHNlZW1lZCBvZmYuIEkgZm91bmQgbXlzZWxmIHRhY2tpbmcgb24gbW9yZSBhbmQgbW9yZSBxdWFsaWZpZXJzLCBkZXNpZ25lZCB0byBqdXN0aWZ5IHNvbWUgYW1vcnBob3VzIGludHVpdGlvbiBhYm91dCB3aGF0ICpmZWx0KiBsaWtlIGFuIGFnZW50LiBJIGtub3cgaXQgd2hlbiBJIHNlZSBpdCwgYnV0IHRoYXQncyBhYm91dCBhcyBzYXRpc2Z5aW5nIGFzICJ0b29sIHVzZSIuCgpJbnN0ZWFkIEkgcHJvcG9zZSBhIGRpZmZlcmVudCB0eXBlIG9mIGRlZmluaXRpb24sIG9uZSBsZXNzIGZvY3VzZWQgb24gaW1wbGVtZW50YXRpb24gYW5kIG1vcmUgaW50ZXJlc3RlZCBpbiB3aGF0IHJvbGUgdGhleSBwbGF5IGluIHRoZSB3b3JsZC4gVGhlIGNvcmUgcXVlc3Rpb24gd2UncmUgdXN1YWxseSBpbnRlcmVzdGVkIGluIGlzOiB3aGF0IGRpc3Rpbmd1aXNoZXMgYW4gYWdlbnQgZnJvbSBhIGNoYXRib3Q/CgoqKkEgY2hhdGJvdCBwcm92aWRlcyBpbmZvcm1hdGlvbiB0aGF0IGhlbHBzIHlvdSBzb2x2ZSB5b3VyIHByb2JsZW0uIEFuIGFnZW50IHNvbHZlcyB5b3VyIHByb2JsZW0uKioKCkkgd2FzIHRlbXB0ZWQgdG8gbWFrZSB0aGF0IGxpbmUgdGhlIHdob2xlIHBvc3QsIGJ1dCBJJ20gYW4gb3ZlcnRoaW5rZXIgYXQgaGVhcnQgc28gYSBmcmFtZXdvcmsgaXQgaXMhCgojIyBBZ2VudHMgaW4gMyAxLzIgTGV2ZWxzCgooRm9yIHNpbXBsaWNpdHksIGV4YW1wbGVzIGFyZSBwcmVzZW50ZWQgaW4gc29tZXRoaW5nIHJlc2VtYmxpbmcgYSBjaGF0Ym90IFVYLiBUaGF0IGlzIGhhcmRseSB0aGUgb25seSBvciBvcHRpbWFsIGZvcm0sIG9mIGNvdXJzZSwgYW5kIEkgZXhwZWN0IHRoYXQgaGlnaGVyIGxldmVscyB3aWxsIGRpdmVyZ2UgbW9yZSBhbmQgbW9yZSBmcm9tIHRoZSBjaGF0Ym90IHBhdHRlcm4uKQoKIyMjIExldmVsIDAgKG5vdCBhbiBhZ2VudCkgLSBwcm92aWRlcyBhIHVzZXIgd2l0aCBjb250ZW50IHRoYXQgaGVscHMgdGhlbSBjb21wbGV0ZSBhIHRhc2sKCj4gSHVtYW46IEknbSB0aGlua2luZyBvZiB0cmF2ZWxpbmcgdG8gVG9reW8sIHdoZXJlIHNob3VsZCBJIGdvPyAgCj4gQUk6IFtzZWFyY2hpbmcuLi5dIEdpdmVuIHlvdXIgaW50ZXJlc3RzIGFuZCBteSByZXNlYXJjaCwgeW91IHNob3VsZCB2aXNpdCBCLVB1bXAgT2dpa3VibyBhbmQgdmlzaXQgdGhlc2Ugc3VzaGkgcmVzdGF1cmFudHM6IC4uLgoKIyMjIExldmVsIDEgLSBwZXJmb3JtIGNvbmNyZXRlIHN1Yi10YXNrcyBzcGVjaWZpZWQgYnkgYSB1c2VyIGluIHNlcnZpY2Ugb2YgYSBsYXJnZXIgdGFzawoKPiBIdW1hbjogSSdkIGxpa2UgdG8gdHJhdmVsIHRvIFRva3lvLCBjYW4geW91IGJvb2sgbWUgdGhlIGNoZWFwZXN0IG5vbi1zdG9wIHRpY2tldCBmb3IgMSB3ZWVrIGluIE1heT8gIAo+IEFJOiBbd29ya2luZy4uLl0gSSBmb3VuZCByb3VuZHRyaXAgdGlja2V0cyBmb3IgTWF5IDEyIC0gTWF5IDE5IGZvciAkNTAwLiBEbyB5b3UgYXBwcm92ZSB0aGlzIHB1cmNoYXNlPyAgCj4gSHVtYW46IHllYWggIAo+IEFJOiBbd29ya2luZy4uLl0gWW91ciB0aWNrZXQgaGFzIGJlZW4gYm9va2VkIGFuZCB0aGUgZGV0YWlscyBhcmUgaW4geW91ciBpbmJveC4KCiMjIyBMZXZlbCAyIC0gcGVyZm9ybSBsYXJnZSwgbG9vc2VseSBkZWZpbmVkIHRhc2tzIGVuZC10by1lbmQgaW4gcHVyc3VpdCBvZiB1c2VyLXByZXNjcmliZWQgZ29hbHMKCj4gSHVtYW46IEknZCBsaWtlIHRvIGdvIG9uIGEgdHJpcCB0aGlzIHN1bW1lciwgY2FuIHlvdSBmaWd1cmUgb3V0IHRoZSBkZXRhaWxzPyAgCj4gQUk6IFt3b3JraW5nLi4uXSBHaXZlbiB5b3VyIGludGVyZXN0cywgSSd2ZSBwdXQgdG9nZXRoZXIgYSB0cmlwIEkgdGhpbmsgeW91J2xsIGxpa2UuIEhlcmUgaXMgbXkgcHJvcG9zZWQgaXRpbmVyYXJ5OiAgCi4uLiAgClNob3VsZCBJIGJvb2sgZXZlcnl0aGluZyBmb3IgeW91PyAgCj4gSHVtYW46IHllYWggIAo+IEFJOiBbd29ya2luZy4uLl0gRXZlcnl0aGluZyBpcyBib29rZWQhIFlvdSBjYW4gZmluZCB5b3VyIHBsYW5lIHRpY2tldHMsIGl0aW5lcmFyeSwgYW5kIGFsbCBjb25jZXJ0L2V2ZW50IHRpY2tldHMgYW5kIGRpbm5lciByZXNlcnZhdGlvbnMgaW4geW91ciBpbmJveC4gQW4gdWJlciB3aWxsIHRha2UgeW91IHRvIHRoZSBhaXJwb3J0IG9uIE1heSAxMiBhdCA2cG0gLSBJJ2xsIHJlbWluZCB5b3UgYXMgdGhlIGRhdGUgYXBwcm9hY2hlcy4KCiMjIyBMZXZlbCAzIC0gZGV0ZXJtaW5lcyBnb2FscywgaWRlbnRpZmllcyBuZWNlc3NhcnkgdGFza3MsIGFuZCBwZXJmb3JtcyB0aGVtCgo+IEFJOiBJJ3ZlIG5vdGljZWQgYSBzaGlmdCBpbiB5b3UgbGF0ZWx5LCB0aGVyZSdzIGEgd2VhcmluZXNzIHRoYXQgd2Fzbid0IHRoZXJlIGJlZm9yZS4gSSB0aGluayBpdCBtaWdodCBiZSB0aW1lIGZvciBhIHZhY2F0aW9uLiBHaXZlbiB5b3VyIGludGVyZXN0cyBhbmQgYnVkZ2V0LCBJIHB1dCB0b2dldGhlciBhIHBvc3NpYmxlIGl0aW5lcmFyeTogIAouLi4gIApXYW50IG1lIHRvIGJvb2sgdGhpcz8gIAo+IEh1bWFuOiBnb29kIGlkZWEsIHdvcmsgaGFzIGJlZW4gY3JhenkuIEkndmUgYmVlbiBzbyBjYXVnaHQgdXAgaW4gaXQgSSBkaWRuJ3QgZXZlbiBub3RpY2UgYnV0IHllYWgsIGl0J3MgcmVhbGx5IGdldHRpbmcgdG8gbWUuIExldCdzIGRvIGl0LiAgCj4gQUk6IEV2ZXJ5dGhpbmcgaXMgYm9va2VkISBZb3UgY2FuIGZpbmQgeW91ciBwbGFuZSB0aWNrZXRzLCBpdGluZXJhcnksIGFuZCBhbGwgY29uY2VydC9ldmVudCB0aWNrZXRzIGFuZCBkaW5uZXIgcmVzZXJ2YXRpb25zIGluIHlvdXIgaW5ib3guIEFuIHViZXIgd2lsbCB0YWtlIHlvdSB0byB0aGUgYWlycG9ydCBvbiBNYXkgMTIgYXQgNnBtIC0gSSdsbCByZW1pbmQgeW91IGFzIHRoZSBkYXRlIGFwcHJvYWNoZXMuICAKCihOb3RpY2UgdGhpcyBpcyB0aGUgb25seSBleGFtcGxlIHdoZXJlIHRoZSBBSSBpbml0aWF0ZXMuIEkgYWxzbyBvbWl0IGFueSBgW3dvcmtpbmcuLi5dYCBtYXJrZXJzIGJlY2F1c2UgdGhpcyBBSSBpcyAqYWx3YXlzKiB3b3JraW5nLiBUZWNobmljYWxseSBpdCBtYXkgaGF2ZSBiZWVuIGdpdmVuIHNvbWUgYnJvYWQgZ29hbCBhdCBzb21lIHBvaW50IC0gImltcHJvdmUgbXkgbGlmZSIgb3IgImhlbHAgaHVtYW5pdHkiIG9yICJhZHZhbmNlIHNjaWVuY2UiIC0gYnV0IHRoYXQncyBhbG1vc3QgbW9yZSBsaWtlIGEgdmFsdWUgdGhhbiBhIGdvYWwuIFNwZWNpZmljIGdvYWxzIGFuZCBpbXBsZW1lbnRhdGlvbiBkZXRhaWxzIGFyZSBhbGwgbGVmdCB0byBpdHMganVkZ21lbnQuKQoKW14xXTogSSBhbHdheXMgZm91bmQgInRvb2wgdXNlIGluIGEgd2hpbGUgbG9vcCIgZGVlcGx5IHVuc2F0aXNmeWluZy4gTWV0aG9kcyBjaGFuZ2U7IG91ciBkZWZpbml0aW9uIHNob3VsZCBub3QgYmUgdG9vIGNsb3NlbHkgdGllZCB0byBpbXBsZW1lbnRhdGlvbi4K
+---
+date: 2025-02-28
+privacy: 0
+---
+
+# Towards a useful definition of agents
+
+Some have proclaimed 2025 the Year of Agents. And yet I can't escape the sense that no one quite knows what we're talking about when we say "agents". "They're...well, you know..." *gestures vaguely in the direction of Devin and mutters something about tool use and loops*. [^1] Some offered definitions that fit in tweets; others required thousand word blog posts. As Chip Huyen points out, Peter Norvig and Stuart Russell provide a reasonably satisfactory answer in *Artificial Intelligence: A Modern Approach*:
+
+> An agent is anything that can be viewed as perceiving its environment through sensors and
+acting upon that environment through actuators. 
+
+I think this is mostly right. But parts of it still irked me. What does it mean to act upon an environment? ChatGPT can read the news or execute code before answering, does that qualify? Are we back at "tool use"? Perhaps, I thought, read-only actions are insufficient. We can modify the definition to clarify that an agent's actions must be capable of modifying its environment. It must be an activate participant in the world, not just a passive one. The anti-NPC. And yet...something still seemed off. I found myself tacking on more and more qualifiers, designed to justify some amorphous intuition about what *felt* like an agent. I know it when I see it, but that's about as satisfying as "tool use".
+
+Instead I propose a different type of definition, one less focused on implementation and more interested in what role they play in the world. The core question we're usually interested in is: what distinguishes an agent from a chatbot?
+
+**A chatbot provides information that helps you solve your problem. An agent solves your problem.**
+
+I was tempted to make that line the whole post, but I'm an overthinker at heart so a framework it is!
+
+## Agents in 3 1/2 Levels
+
+(For simplicity, examples are presented in something resembling a chatbot UX. That is hardly the only or optimal form, of course, and I expect that higher levels will diverge more and more from the chatbot pattern.)
+
+### Level 0 (not an agent) - provides a user with content that helps them complete a task
+
+> Human: I'm thinking of traveling to Tokyo, where should I go?  
+> AI: [searching...] Given your interests and my research, you should visit B-Pump Ogikubo and visit these sushi restaurants: ...
+
+### Level 1 - perform concrete sub-tasks specified by a user in service of a larger task
+
+> Human: I'd like to travel to Tokyo, can you book me the cheapest non-stop ticket for 1 week in May?  
+> AI: [working...] I found roundtrip tickets for May 12 - May 19 for $500. Do you approve this purchase?  
+> Human: yeah  
+> AI: [working...] Your ticket has been booked and the details are in your inbox.
+
+### Level 2 - perform large, loosely defined tasks end-to-end in pursuit of user-prescribed goals
+
+> Human: I'd like to go on a trip this summer, can you figure out the details?  
+> AI: [working...] Given your interests, I've put together a trip I think you'll like. Here is my proposed itinerary:  
+...  
+Should I book everything for you?  
+> Human: yeah  
+> AI: [working...] Everything is booked! You can find your plane tickets, itinerary, and all concert/event tickets and dinner reservations in your inbox. An uber will take you to the airport on May 12 at 6pm - I'll remind you as the date approaches.
+
+### Level 3 - determines goals, identifies necessary tasks, and performs them
+
+> AI: I've noticed a shift in you lately, there's a weariness that wasn't there before. I think it might be time for a vacation. Given your interests and budget, I put together a possible itinerary:  
+...  
+Want me to book this?  
+> Human: good idea, work has been crazy. I've been so caught up in it I didn't even notice but yeah, it's really getting to me. Let's do it.  
+> AI: Everything is booked! You can find your plane tickets, itinerary, and all concert/event tickets and dinner reservations in your inbox. An uber will take you to the airport on May 12 at 6pm - I'll remind you as the date approaches.  
+
+(Notice this is the only example where the AI initiates. I also omit any `[working...]` markers because this AI is *always* working. Technically it may have been given some broad goal at some point - "improve my life" or "help humanity" or "advance science" - but that's almost more like a value than a goal. Specific goals and implementation details are all left to its judgment.)
+
+[^1]: I always found "tool use in a while loop" deeply unsatisfying. Methods change; our definition should not be too closely tied to implementation.
