@@ -20,6 +20,7 @@
 12/24/25 - [Favorite stranger](posts/stranger/post.md)  
 12/28/25 - [Count the teeth](posts/count_the_teeth/post.md)  
 > 2/1/26 - *growing increasingly jealous of claude by the day*  
+
 6/30/25 - [Work friend](posts/work_friend/post.md)  
 
 ***
