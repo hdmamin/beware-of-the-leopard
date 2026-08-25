@@ -6,3 +6,5 @@ privacy: 1
 # My Title Here
 
 Write stuff here. Remember to update title and date.
+
+# TODO remember removing todo comments will publish the post
