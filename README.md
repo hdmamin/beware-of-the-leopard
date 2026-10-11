@@ -22,6 +22,7 @@
 > 2/1/26 - *growing increasingly jealous of claude by the day*  
 
 6/30/26 - [Work friend](posts/work_friend/post.md)  
+10/10/26 - [coding eulogy](posts/coding_eulogy/post.md)  
 
 ***
 
